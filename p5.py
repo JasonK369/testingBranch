@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 def check_palindrome(s):
 	s = s.lower()
 	for i in range (len(s)):
@@ -13,7 +12,6 @@ while True:
 	else:
 		print ("Welcome to the wonderland!")
 		break
-=======
-print("heha")
-
->>>>>>> development
+# add new function
+def haha():
+	print("haha")
