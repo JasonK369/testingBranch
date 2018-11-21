@@ -15,3 +15,8 @@ while True:
 # add new function
 def haha():
 	print("haha")
+
+# 2nd function
+def heha():
+	print("hehehaahha")
+
