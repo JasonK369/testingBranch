@@ -12,3 +12,6 @@ while True:
 	else:
 		print ("Welcome to the wonderland!")
 		break
+# add new function
+def haha():
+	print("haha")
